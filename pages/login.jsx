@@ -48,11 +48,11 @@ const Login = () => {
           <li>
             This is <strong>not</strong> WhatsApp. It is a clone made by me -{" "}
             <a
-              href="https://aktindo.me"
+              href="https://tanishanand2409.web.app"
               className="link link-primary dark:link-secondary link-hover"
               target="_blank"
             >
-              @aktindo
+              @tanish
             </a>
             .
           </li>
@@ -70,26 +70,9 @@ const Login = () => {
             the features and enjoy :)
           </li>
           <div className="border-t-2 border-gray-300 dark:border-gray-700 my-2"></div>{" "}
-          <li>
-            Some of the features in this app are inspired and developed by using{" "}
-            <a
-              href="https://www.youtube.com/user/ssangha32"
-              target="_blank"
-              rel="_noreferrer"
-              className="link link-primary dark:link-secondary link-hover"
-            >
-              @sony sangha
-            </a>
-            's whatsapp clone as a reference. (
-            <i>do check him out he's really cool at making clones</i>)
-          </li>
+         
           <div className="border-t-2 border-gray-300 dark:border-gray-700 my-2"></div>{" "}
-          <li>
-            <i>
-              If you want to test the message feature, add{" "}
-              <strong>akshitsingla2852@gmail.com</strong> as a chat.
-            </i>
-          </li>
+          
         </ul>
       </div>
       <p className="fixed bottom-0 left-0 m-1">
