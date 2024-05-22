@@ -79,8 +79,7 @@ const UserInfo = ({ chat, onCloseButtonClick, hidden }) => {
               "..."
             )}
           </p>
-          {recipient ? (
-            recipient.email === "akshit.singla.dps@gmail.com" ? (
+           (
               <div
                 className="badge flex cursor-default badge-primary dark:badge-secondary mt-2 tooltip"
                 data-tip="This is the official account of the developer."
@@ -118,7 +117,7 @@ const UserInfo = ({ chat, onCloseButtonClick, hidden }) => {
           <p className="flex">
             Made with <HeartIcon className="w-6 h-6 text-error mx-1" /> by
             <a
-              href="https://tanishanand.web.app"
+              href="https://tanishanand2409.web.app"
               rel="_noreferrer"
               target="_blank"
               className="link link-primary dark:link-secondary link-hover ml-1"
