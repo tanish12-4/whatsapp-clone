@@ -107,7 +107,7 @@ const UserInfo = ({ chat, onCloseButtonClick, hidden }) => {
               Developer Notes
             </p>
             <p className="text-gray-500 dark:text-gray-300 text-center">
-              Version: v0.0.1-alpha
+              Version: v0.0.1
               <br />
               Build: 1000
               <br />
@@ -118,12 +118,12 @@ const UserInfo = ({ chat, onCloseButtonClick, hidden }) => {
           <p className="flex">
             Made with <HeartIcon className="w-6 h-6 text-error mx-1" /> by
             <a
-              href="https://aktindo.me"
+              href="https://tanishanand.web.app"
               rel="_noreferrer"
               target="_blank"
               className="link link-primary dark:link-secondary link-hover ml-1"
             >
-              @aktindo
+              @tanish
             </a>
           </p>
         </div>
